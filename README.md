@@ -1,5 +1,5 @@
 # Recommender-Engines-using-Spark-ALS
-This project demonstrates how to build a Recommender Engine for recommending musical instrument purchases using Spark ALS. The data for this has been taken from actual Amazon product reviews
+This project demonstrates how to build a Recommender Engine for recommending musical instrument purchases using Spark
 
 The recommender engine is built using the inbuilt "Alternating Least Squares (ALS)" algorithm offered by Spark
 
